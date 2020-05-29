@@ -1,2 +1,2 @@
 # hello-world
-This is my first ever interaction repository.
+This is my first ever interaction with repository.
